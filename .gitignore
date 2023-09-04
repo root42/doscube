@@ -1,0 +1,5 @@
+*.BAK
+*~
+*.OBJ
+.DS_Store
+.gitignore
